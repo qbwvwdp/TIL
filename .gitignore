@@ -6,3 +6,5 @@ vendor
 Gemfile.lock
 *.gem
 .jekyll-cache
+template_index.md
+another-page.md
