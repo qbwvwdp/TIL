@@ -1,3 +1,5 @@
+<link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml" title="{{ site.title }} Feed">
+
 # Today Seraph Learned
 오늘 새롭게 배우거나 삽질한 경험을 작성해보자.
 
